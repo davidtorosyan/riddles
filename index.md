@@ -1,5 +1,5 @@
 ---
-title: home
+title: riddles
 ---
 
 ## Welcome to my riddles
