@@ -11,4 +11,4 @@ Run:
 
 Notes:
 * Make sure to run `run.sh` from the root directory.
-* You can visit the site at http://localhost:4000/
+* You can visit the site at http://localhost:4001/riddles/
