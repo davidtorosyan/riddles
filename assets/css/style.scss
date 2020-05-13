@@ -9,10 +9,24 @@
 
 $font-size: 18px;
 
-.buttons, button {
-    font-size: 14px;
-}
+//
+// Large sections
+//
 
 body {
     font-size: $font-size;
+}
+
+//
+// Fixes
+//
+
+.buttons, button {
+    font-size: 14px;
+    line-height: 14px;
+}
+
+header {
+    font-size: 14px;
+    line-height: 25.2px;
 }
